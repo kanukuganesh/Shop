@@ -1,0 +1,22 @@
+node_modules/
+.DS_Store
+*.log
+
+# Flutter/Dart related
+**/build**/
+**/.dart_tool/
+**/.pub-cache/
+**/.pub/
+
+# Android related
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+**/android/app/nagaraju_shop_key.jks
+**/android/key.properties
+**/*.jks
+
+# IDE related
+.idea/
+*.iml
+.vscode/

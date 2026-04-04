@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838604269258",
+    "project_id": "ai-assistant-i70b9",
+    "storage_bucket": "ai-assistant-i70b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838604269258:android:11e3d556064df0f7b1b633",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDA7dSsC1DBZMI8HLBBhLr9nr52l9JW0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
